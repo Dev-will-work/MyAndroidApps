@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Здравствуй, Андроид</string>
+    <string name="search_in_browser">Искать в браузере</string>
+    <string name="enter_text">Введите текст</string>
+    <string name="send_message">отправить сообщение</string>
+    <string name="send_answer">отправить ответ</string>
+    <string name="phone">позвонить</string>
+    <string name="search_in_chrome">Искать в Google Chrome</string>
+    <string name="hello_world">Здравствуй, мир!</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="search_in_browser">Search in browser</string>
+    <string name="enter_text">Enter text</string>
+    <string name="send_message">send message</string>
+    <string name="send_answer">send answer</string>
+    <string name="phone">phone</string>
+    <string name="search_in_chrome">search in chrome</string>
+    <string name="hello_world">Hello World!</string>
+</resources>
