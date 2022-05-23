@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Retrofit Weather API</string>
+    <string name="city_name" translatable="false">%1$s, %2$s</string>
+    <string name="sun_data" translatable="false">🌅 %1$s\n🌇 %2$s</string>
+    <string name="wind_data">💨 %1$.0f m/s</string>
+    <string name="cloud_data" translatable="false">☁ %1$d%%</string>
+    <string name="visibility_data">👀 %1$d m</string>
+    <string name="coords">Lat: %1$.4f, Long: %2$.4f</string>
+    <string name="pressure_humidity">🌡 %1$d mm.rt.st / 💧 %2$d%%</string>
+    <string name="temperature_data">%1$.1f°C, feels like %2$.1f°C</string>
+    <string name="weather_data">%1$s, %2$s</string>
+    <string name="response_field_description">This field will contain raw request information</string>
+    <string name="spinner_description">Request mode</string>
+    <string name="api_key_field_hint">your API key(optional)</string>
+    <string name="placeholder" translatable="false">Name</string>
+    <string name="icon_description">Icon of current weather</string>
+    <string name="button_description">Get data</string>
+    <string name="city_name_placeholder">City name, country</string>
+    <string name="weather_description_placeholder">Weather description</string>
+    <string name="coords_placeholder">Coords--------------------------</string>
+    <string name="temperatures_placeholder">temperatures</string>
+    <string name="pressure_humidity_placeholder">Pressure/hum</string>
+    <string name="visibility_placeholder">visibility</string>
+    <string name="cloudness_placeholder">cloudness</string>
+    <string name="wind_placeholder">wind_p</string>
+    <string name="sun_data_placeholder">sunrise/sunset</string>
+    <string name="City_name_label">City name</string>
+    <string name="City_id_label">City id</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="zip_code_label">Zip code (Only in USA)</string>
+    <string name="name_filter">By name</string>
+    <string name="id_filter">By ID</string>
+    <string name="coordinates_filter">By coordinates</string>
+    <string name="zip_code_filter">By zip code</string>
+    <string name="language_code">en</string>
+<!--    Enter your API KEY-->
+    <string name="API_KEY" translatable="false">Enter your API KEY</string>
+</resources>
