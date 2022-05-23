@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моя карта</string>
+    <string name="Sydney_marker">Маркер в Сиднее</string>
+    <string name="HSE_marker_error">По этому адресу нет корпусов вышки 🙁</string>
+    <string name="HSE_marker">Корпус Вышки на %1$s</string>
+    <string name="enter_hse_address">Введите адрес ВШЭ…</string>
+</resources>

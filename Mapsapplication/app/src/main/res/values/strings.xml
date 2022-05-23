@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Maps application</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="Sydney_marker">Marker in Sydney</string>
+    <string-array name="hse_campuses">
+        <item>Большая Печерская, 25/12</item>
+        <item>Костина, 2Б</item>
+        <item>Львовская, 1В</item>
+        <item>Родионова, 136</item>
+        <item>Сормовское шоссе, 30</item>
+    </string-array>
+    <string name="HSE_marker_error">There aren\'t any HSE campuses by this address 🙁</string>
+    <string name="HSE_marker">HSE campus at %1$s</string>
+    <string name="enter_hse_address">Enter HSE address...</string>
+</resources>
